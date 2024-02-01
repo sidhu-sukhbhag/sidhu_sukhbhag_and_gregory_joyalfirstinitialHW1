@@ -30,8 +30,11 @@ There is repo we are creating to demonstrate Homework 1 assignment.
 **My Favourite website** :-
 [Canva]https://www.canva.com/design/DAF7gh6M0hY/juJEMyX3lZT8I6DDWIjroQ/edit?referrer=websites-landing-page
 
-<<<<<<< Updated upstream
+
 ![Fender Telecaster](images/a.jpg)
+
+
+
 
 
 
@@ -41,8 +44,9 @@ There is repo we are creating to demonstrate Homework 1 assignment.
 )
 
 
-=======
+
+
 ![Fender Telecaster](images/closeup_view_of_white_black_football_on_green_grass_hd_football-1920x1080.jpg)
 
 ![Fender Telecaster](images/cdfh%20yudfvuaviuo.jpeg)
->>>>>>> Stashed changes
+
