@@ -1,18 +1,17 @@
-# sidhu_sukhbhag_and_gregory_joyalfirstinitialHW1
+# sidhu_sukhbhag_and_gregory_joyal_firstinitialHW1
 
-# sidhu_sukhbhag_firstinitialHW1
 
 There is repo we are creating to demonstrate Homework 1 assignment.
 ## This will explain about sidhu_sukhbhag.
 
 **Background**
 
-:- Sidhu is from Panjab.
+:- I am from Panjab.
 
-**Things Sidhu Like**
+**Things I Like**
 :- Book reading, football,travelling and exploring nature.
 
-**Sidhu favourite website** :-
+**My favourite website** :-
 [Shayaribazar] www.shayaribazar.com
 
 ![Fender Telecaster](images/a.jpg)
@@ -23,17 +22,31 @@ There is repo we are creating to demonstrate Homework 1 assignment.
 ## This will explain about gregory_joyal
 
 **Background**
-:- Joyal is from Kerla.
+:- I am from Kerla.
 
-**Things Joyal Like**
+**Things I Like**
 :-Video Games, football and swimming.
 
-**Joyal Favourite website** :-
+**My Favourite website** :-
 [Canva]https://www.canva.com/design/DAF7gh6M0hY/juJEMyX3lZT8I6DDWIjroQ/edit?referrer=websites-landing-page
 
-![Fender Telecaster](images/OIP%20(1).jpeg)
-![Fender Telecaster](images/R.jpeg)
+
+![Fender Telecaster](images/a.jpg)
 
 
 
+
+
+
+![Fender Telecaster](images/OIP.jpeg)
+
+![Fender Telecaster](images/OIP.jpeg
+)
+
+
+
+
+![Fender Telecaster](images/closeup_view_of_white_black_football_on_green_grass_hd_football-1920x1080.jpg)
+
+![Fender Telecaster](images/cdfh%20yudfvuaviuo.jpeg)
 
