@@ -1,4 +1,4 @@
-# sidhu_sukhbhag_firstinitialHW1
+# sidhu_sukhbhag_and_gregory_joyal_firstinitialHW1
 There is repo we are creating to demonstrate Homework 1 assignment.
 ## This will explain about sidhu_sukhbhag.
 
@@ -12,5 +12,6 @@ My favourite website:-
 [Shayaribazar] www.shayaribazar.com
 
 ![Fender Telecaster](images/a.jpg)
-![Fender Telecaster](images/OIP.jpeg
-)
+
+
+![Fender Telecaster](images/OIP.jpeg)
