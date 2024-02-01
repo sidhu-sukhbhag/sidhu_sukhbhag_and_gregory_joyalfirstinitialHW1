@@ -34,15 +34,6 @@ There is repo we are creating to demonstrate Homework 1 assignment.
 ![Fender Telecaster](images/OIP%20(1).jpeg)
 ![Fender Telecaster](images/R.jpeg)
 
-:- I am from Panjab.
 
-**Things I Like**
-:- Book reading, football,travelling and exploring nature.
 
-My favourite website:-
-[Shayaribazar] www.shayaribazar.com
-
-![Fender Telecaster](images/a.jpg)
-![Fender Telecaster](images/OIP.jpeg
-)
 
